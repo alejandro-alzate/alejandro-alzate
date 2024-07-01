@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @alejandro-alzate
-- 👀 I’m interested in App development
+- 👋 Hi, I’m @alejandro-alzate a shy autistic little prick
+- 👀 I’m interested in App development, Games, and just Software and Hardware tinkering in general
 - 🌱 I’m currently learning niche lua tricks
-- 💞️ I’m looking to collaborate on <no one (yet!)>
-- 📫 How to reach me Issue me with the tag 'ReachMe'
+- 💞️ I’m open to help and get helped
+- 📫 Dm me here
+- 🤷‍♂ Breaks stuff all of the time for some reason. whenever i can it fix it myself.
+- 🤓 Probrably the definition of the word nerd.
+
+- He/Him If you're on that stuff and afraid to use the wrong pronoun (I don't relly mind)
 
 <!---
 alejandro-alzate/alejandro-alzate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
