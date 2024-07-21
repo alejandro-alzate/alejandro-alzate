@@ -7,7 +7,7 @@ Not sure what are you looking for?
 - 🌱 I’m currently learning niche lua tricks
 - 💞️ I’m open to help and get helped
 - 📫 Dm me here
-- 🤷‍♂ Breaks stuff all of the time for some reason. whenever i can it fix it myself.
+- 🤷‍♂ Breaks stuff all of the time for some reason. whenever I can, I fix them myself.
 - 🤓 Probrably the definition of the word nerd.
 
 - He/Him If you're on that stuff and afraid to use the wrong pronoun (I don't relly mind)
