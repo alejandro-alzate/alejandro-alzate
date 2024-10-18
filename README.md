@@ -2,13 +2,14 @@
 Not sure what are you looking for?
 *why you don't take a look to my [map](https://github.com/alejandro-alzate/repo-map)*
 
-- 👋 Hi, I’m @alejandro-alzate a shy autistic little prick
-- 👀 I’m interested in App development, Games, and just Software and Hardware tinkering in general
-- 🌱 I’m currently learning niche lua tricks
-- 💞️ I’m open to help and get helped
-- 📫 Dm me here
+- 👋 Hi, I’m @alejandro-alzate a shy autistic little prick.
+- 👀 I’m interested in App development, Games, and just Software and Hardware tinkering in general.
+- 🌱 I’m currently learning niche lua tricks.
+- 💞️ I’m open to help and get helped.
+- 📫 Dm me here.
 - 🤷‍♂ Breaks stuff all of the time for some reason. whenever I can, I fix them myself.
 - 🤓 Probrably the definition of the word nerd.
+- 👨‍💻 Looking for a fulfilling job in the industry.
 
 - He/Him If you're on that stuff and afraid to use the wrong pronoun (I don't relly mind)
 
